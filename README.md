@@ -28,3 +28,6 @@ If you want to know more look at my [project wiki](https://github.com/epicLeo210
 Special Thanks to:
  - The people in the Quake Mapping Discord server have answered various questions on such short notice. I'm very grateful for their help and advice. 
  - Extra thanks to [dumptruck_ds](https://www.youtube.com/@dumptruckds) for helping me understand the Trenchroom engine. By watching his very insightful tutorials.
+***
+Here's where you can download the level: https://github.com/epicLeo2101/Dark-Carnival/releases/tag/V1.0.0
+***
