@@ -1,6 +1,7 @@
 # Dark-Carnival
 You discovered a strange Carnival of the likes you have not seen before. However, taking a closer look, the Carnival is not any ordinary Carnival, but a wicked deadly Carnival. Surrounded by undead employees and deadly circus freaks, thirsty for blood! Do you have what it takes to survive the Dark Carnival?
- ![ Alt text](ezgif.com-gif-maker.gif)
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/91509500/208271119-f6b688f1-8f3e-4c62-85f2-79b13528bbd7.gif)
 ***
 If you want to know more look at my [project wiki](https://github.com/epicLeo2101/Dark-Carnival/wiki)! 
 ***
